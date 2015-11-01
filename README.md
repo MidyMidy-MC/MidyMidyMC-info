@@ -8,16 +8,34 @@ MidyMidy 第三周目
 
 ###1. 访问地址
 * 121.42.30.62
+* 114.215.156.251
 * mc.hijack.moe （Jack Zhang 提供）
+* mc-bak.hijack.moe （Jack Zhang 提供）
 * midymidy-mc.hijack.moe （Jack Zhang 提供）
-* mc.wetofu.top（TonyChyi 提供）
+* mc.wetofu.top（TonyChyi 提供，有负载均衡）
 
 ###2. 插件
 * CrazyLogin：登录管理器
 * AdvancedBankAccounts：银行帐号和商店
+* iConomy：金钱插件
+* SignShop：木牌商店
 * Lockette：木牌锁箱插件
 * WorldEdit：地图编辑器
 * WorldGuard：防爆插件
+* AntiCropTrample：农田保护
+* GameModeInventories：不同游戏模式的独立物品栏
+* HomeSpawnPlus：设置家和出生点
+* MoneyMobs：杀怪赚钱
+* MotdManager：服务器提示（Motd）插件
+* MultiWorld：多世界插件，提供一个创造界
+* PerfectBackup：备份
+* PermissionsEx：权限管理
+* PurpleIRC：IRC对接
+* ServerWelcome：服务器登录欢迎
+* ModifyWorld
+
+###3. IRC
+\#MidyMidymc@freenode.net
 
 各插件使用方法
 -----
@@ -58,3 +76,9 @@ MidyMidy 第三周目
 3. 手持红石粉，左键单击箱子，然后在左键单击牌子，即可关联。
 4. 左键单击牌子可查看商店内容（可以精准的看到所出售的物品），右键单击牌
 子可以购买东西。
+
+###穿越到创造界
+
+在出生点附近可以找到传送点，即可穿越到创造界。
+
+如果在创造界迷路，可以使用`/spawn`回到传送点。
