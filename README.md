@@ -32,6 +32,7 @@ MidyMidy 第三周目
 * PermissionsEx：权限管理
 * PurpleIRC：IRC对接
 * ServerWelcome：服务器登录欢迎
+* Mailbox：邮箱插件
 * ModifyWorld
 
 ###3. IRC
@@ -106,3 +107,21 @@ midymidy-mc@googlegroups.com
 在出生点附近可以找到传送点，即可穿越到创造界。
 
 如果在创造界迷路，可以使用`/spawn`回到传送点。
+
+###邮箱插件
+
+####创建邮箱
+
+使用`/mailbox create`命令，然后左键点击你要当作邮箱的箱子，就会提示邮箱创建成功
+
+####移除邮箱
+
+使用`/mailbox remove`
+
+####发送物品
+
+使用`/mailbox send <玩家名称>`即可将当前手中拿的物品发送给对方
+
+####查看费率
+
+使用`/mailbox fee`
