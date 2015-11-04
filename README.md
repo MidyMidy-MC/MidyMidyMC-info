@@ -121,7 +121,7 @@ midymidy-mc@googlegroups.com
 * Linux图绘 - by: TonyChyi
 * 飞面神图绘 - by: TonyChyi
 * 飞舞旋律 - by: 佚名
-* 炮姐图绘 - by: Leo_song
+* 炮姐图绘 - by: Jimmy
 * 裸体炮姐图绘 - by: 佚名
 * Homer Simpson - by: Leo_song
 * 皮卡丘 - by: Jimmy
