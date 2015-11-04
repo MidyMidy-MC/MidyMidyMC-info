@@ -33,6 +33,7 @@ MidyMidy 第三周目
 * PurpleIRC：IRC对接
 * ServerWelcome：服务器登录欢迎
 * Mailbox：邮箱插件
+* SmoothFlight：飞行插件
 * ModifyWorld
 
 ###3. IRC
@@ -107,6 +108,33 @@ midymidy-mc@googlegroups.com
 在出生点附近可以找到传送点，即可穿越到创造界。
 
 如果在创造界迷路，可以使用`/spawn`回到传送点。
+
+创造界包含了以往周目中的经典建筑和图绘
+
+> 820 Scientific Tower - by: 佚名
+> Apple II - by: Garfield550
+> Creeper Statue - by: TonyChyi
+> Enderman Statue - by: 佚名
+> Boc Tower - by: Akarin
+> Gengzai Statue - by: Gengzai
+> 水上金塔 - by: Akarin
+> Linux图绘 - by: TonyChyi
+> 飞面神图绘 - by: TonyChyi
+> 飞舞旋律 - by: 佚名
+> 炮姐图绘 - by: Leo_song
+> 裸体炮姐图绘 - by: 佚名
+> Homer Simpson - by: Leo_song
+> 皮卡丘 - by: Jimmy
+> 红魔馆 - by: Jimmy
+> 东方全家福 - by: 佚名
+> Rivsen神庙 - by: Rivsen
+> 彩虹酒店 - by: Leo_song
+
+###飞行
+
+手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！
+
+> Hold a feather, face the sky, click the right button and you can fly~~~ -- leo_song
 
 ###邮箱插件
 
