@@ -76,13 +76,13 @@ midymidy-mc@googlegroups.com
 使用`/money`或者`/bal`命令查看余额，每个人最初有300元钱。
 
 通过MoneyMobs插件来增发货币。
-* 僵尸7两
+* 僵尸8两
 * 蜘蛛10两
 * 骷髅12两
 * 爬行者10两
 * 僵尸猪人10两
 * 女巫15两
-* 小黑20两
+* 小黑14两
 * 末影龙2000两
 * 凋灵3000两
 
@@ -103,6 +103,8 @@ midymidy-mc@googlegroups.com
 
 现在河边（出生点小岛对面）有玩家商店，种类丰富，欢迎选购。
 
+新建了购物广场，里面空着的位置都可以用来卖东西。
+
 ###穿越到创造界
 
 在出生点附近可以找到传送点，即可穿越到创造界。
@@ -120,21 +122,24 @@ midymidy-mc@googlegroups.com
 * 水上金塔 - by: Akarin
 * Linux图绘 - by: TonyChyi
 * 飞面神图绘 - by: TonyChyi
-* 飞舞旋律 - by: 佚名
+* 飞舞旋律 - by: Jimmy
 * 炮姐图绘 - by: Jimmy
 * 裸体炮姐图绘 - by: 佚名
-* Homer Simpson - by: Leo_song
+* Homer.J.Simpson - by: Leo_song
 * 皮卡丘 - by: Jimmy
 * 红魔馆 - by: Jimmy
 * 东方全家福 - by: 佚名
 * Rivsen神庙 - by: Rivsen
 * 彩虹酒店 - by: Leo_song
+* 丰甜神庙 - 丰甜儿
 
 ###飞行
 
 手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！
 
-> Hold a feather, face the sky, click the right button and you can fly~~~ -- leo_song
+> Hold a feather, face the sky, click the right button and you can fly~~~ -- Star Brilliant
+
+降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。
 
 ###邮箱插件
 
