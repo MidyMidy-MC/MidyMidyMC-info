@@ -9,10 +9,10 @@ MidyMidy 第三周目
 ###1. 访问地址
 * 121.42.30.62
 * 114.215.156.251
-* mc.hijack.moe （Jack Zhang 提供）
-* mc-bak.hijack.moe （Jack Zhang 提供）
-* midymidy-mc.hijack.moe （Jack Zhang 提供）
-* mc.wetofu.top（TonyChyi 提供，有负载均衡）
+* mc.hijack.moe （Jack Zhang 提供，有负载均衡）
+* mc-leo.hijack.moe （Jack Zhang 提供，直接连接服务器）
+* mc-bak.hijack.moe （Jack Zhang 提供，使用中转服务器）
+* mc.wetofu.top （TonyChyi 提供，有负载均衡）
 
 ###2. 插件
 * CrazyLogin：登录管理器
