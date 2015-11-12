@@ -129,7 +129,7 @@ midymidy-mc@googlegroups.com
 * 皮卡丘 - by: Jimmy
 * 红魔馆 - by: Jimmy
 * 东方全家福 - by: 佚名
-* Rivsen神庙 - by: Rivsen
+* Violet的神庙 - by: violet
 * 彩虹酒店 - by: Leo_song
 * 丰甜神庙 - 丰甜儿
 
