@@ -34,6 +34,7 @@ MidyMidy 第三周目
 * ServerWelcome：服务器登录欢迎
 * Mailbox：邮箱插件
 * SmoothFlight：飞行插件
+* TreeAssist：砍树插件
 * ModifyWorld
 
 ###3. IRC
@@ -86,7 +87,7 @@ midymidy-mc@googlegroups.com
 * 末影龙2000两
 * 凋灵3000两
 
-###SignShop用法：
+### SignShop用法：
 
 1. 放一个箱子，锁不锁随意。在里面放上一次性要卖掉的东西（每次卖这么多）。
 2. 放一个牌子，格式如下：
@@ -103,7 +104,7 @@ midymidy-mc@googlegroups.com
 
 现在河边（出生点小岛对面）有玩家商店，种类丰富，欢迎选购。
 
-###穿越到创造界
+### 穿越到创造界
 
 在出生点附近可以找到传送点，即可穿越到创造界。
 
@@ -129,11 +130,17 @@ midymidy-mc@googlegroups.com
 * 东方全家福 - by: 佚名
 * 彩虹酒店 - by: Leo_song
 
-###飞行
+### 飞行
 
 手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！
 
 > Hold a feather, face the sky, click the right button and you can fly~~~ -- leo_song
+
+### 砍树
+
+从树的最下面开始砍，树会自己掉落原木，并自动补种
+
+砍树插件只在主世界有效
 
 ###邮箱插件
 
