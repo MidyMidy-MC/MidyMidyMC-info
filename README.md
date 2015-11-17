@@ -6,7 +6,7 @@ MidyMidy 第三周目
 服务器基本信息
 -----
 
-###1. 访问地址
+### 1. 访问地址
 * 121.42.30.62
 * 114.215.156.251
 * mc.hijack.moe （Jack Zhang 提供，有负载均衡）
@@ -14,7 +14,7 @@ MidyMidy 第三周目
 * mc-bak.hijack.moe （Jack Zhang 提供，使用中转服务器）
 * mc.wetofu.top （TonyChyi 提供，有负载均衡）
 
-###2. 插件
+### 2. 插件
 * CrazyLogin：登录管理器
 * AdvancedBankAccounts：银行帐号和商店
 * iConomy：金钱插件
@@ -34,16 +34,17 @@ MidyMidy 第三周目
 * ServerWelcome：服务器登录欢迎
 * Mailbox：邮箱插件
 * SmoothFlight：飞行插件
+* TreeAssist：砍树插件
 * ModifyWorld
 
-###3. IRC
+### 3. IRC
 \#MidyMidymc@freenode.net
 
-###4.邮件列表
+### 4.邮件列表
 
 midymidy-mc@googlegroups.com
 
-###5.系统商店
+### 5.系统商店
 
 现有MrBrick和MrQuartz两位交易员，可以用石头（烧过的那种）和他们交换砖块和石英。
 
@@ -86,7 +87,7 @@ midymidy-mc@googlegroups.com
 * 末影龙2000两
 * 凋灵3000两
 
-###SignShop用法：
+### SignShop用法：
 
 1. 放一个箱子，锁不锁随意。在里面放上一次性要卖掉的东西（每次卖这么多）。
 2. 放一个牌子，格式如下：
@@ -105,7 +106,7 @@ midymidy-mc@googlegroups.com
 
 新建了购物广场，里面空着的位置都可以用来卖东西。
 
-###穿越到创造界
+### 穿越到创造界
 
 在出生点附近可以找到传送点，即可穿越到创造界。
 
@@ -132,7 +133,7 @@ midymidy-mc@googlegroups.com
 * 彩虹酒店 - by: Leo_song
 * 丰甜神庙 - 丰甜儿
 
-###飞行
+### 飞行
 
 手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！
 
@@ -140,20 +141,26 @@ midymidy-mc@googlegroups.com
 
 降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。
 
-###邮箱插件
+### 砍树
 
-####创建邮箱
+从树的最下面开始砍，树会自己掉落原木，并自动补种
+
+砍树插件只在主世界有效
+
+### 邮箱插件
+
+#### 创建邮箱
 
 使用`/mailbox create`命令，然后左键点击你要当作邮箱的箱子，就会提示邮箱创建成功
 
-####移除邮箱
+#### 移除邮箱
 
 使用`/mailbox remove`
 
-####发送物品
+#### 发送物品
 
 使用`/mailbox send <玩家名称>`即可将当前手中拿的物品发送给对方
 
-####查看费率
+#### 查看费率
 
 使用`/mailbox fee`
