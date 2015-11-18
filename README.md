@@ -16,13 +16,11 @@ MidyMidy 第三周目
 
 ### 2. 插件
 * CrazyLogin：登录管理器
-* AdvancedBankAccounts：银行帐号和商店
 * iConomy：金钱插件
 * SignShop：木牌商店
 * Lockette：木牌锁箱插件
 * WorldEdit：地图编辑器
 * WorldGuard：防爆插件
-* AntiCropTrample：农田保护
 * GameModeInventories：不同游戏模式的独立物品栏
 * HomeSpawnPlus：设置家和出生点
 * MoneyMobs：杀怪赚钱
