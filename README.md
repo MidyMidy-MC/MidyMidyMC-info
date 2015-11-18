@@ -6,15 +6,15 @@ MidyMidy 第三周目
 服务器基本信息
 -----
 
-###1. 访问地址
+### 1. 访问地址
 * 121.42.30.62
 * 114.215.156.251
-* mc.hijack.moe （Jack Zhang 提供）
-* mc-bak.hijack.moe （Jack Zhang 提供）
-* midymidy-mc.hijack.moe （Jack Zhang 提供）
-* mc.wetofu.top（TonyChyi 提供，有负载均衡）
+* mc.hijack.moe （Jack Zhang 提供，有负载均衡）
+* mc-leo.hijack.moe （Jack Zhang 提供，直接连接服务器）
+* mc-bak.hijack.moe （Jack Zhang 提供，使用中转服务器）
+* mc.wetofu.top （TonyChyi 提供，有负载均衡）
 
-###2. 插件
+### 2. 插件
 * CrazyLogin：登录管理器
 * iConomy：金钱插件
 * SignShop：木牌商店
@@ -35,14 +35,14 @@ MidyMidy 第三周目
 * TreeAssist：砍树插件
 * ModifyWorld
 
-###3. IRC
+### 3. IRC
 \#MidyMidymc@freenode.net
 
-###4.邮件列表
+### 4.邮件列表
 
 midymidy-mc@googlegroups.com
 
-###5.系统商店
+### 5.系统商店
 
 现有MrBrick和MrQuartz两位交易员，可以用石头（烧过的那种）和他们交换砖块和石英。
 
@@ -75,13 +75,13 @@ midymidy-mc@googlegroups.com
 使用`/money`或者`/bal`命令查看余额，每个人最初有300元钱。
 
 通过MoneyMobs插件来增发货币。
-* 僵尸7两
+* 僵尸8两
 * 蜘蛛10两
 * 骷髅12两
 * 爬行者10两
 * 僵尸猪人10两
 * 女巫15两
-* 小黑20两
+* 小黑14两
 * 末影龙2000两
 * 凋灵3000两
 
@@ -102,6 +102,8 @@ midymidy-mc@googlegroups.com
 
 现在河边（出生点小岛对面）有玩家商店，种类丰富，欢迎选购。
 
+新建了购物广场，里面空着的位置都可以用来卖东西。
+
 ### 穿越到创造界
 
 在出生点附近可以找到传送点，即可穿越到创造界。
@@ -119,20 +121,23 @@ midymidy-mc@googlegroups.com
 * 水上金塔 - by: Akarin
 * Linux图绘 - by: TonyChyi
 * 飞面神图绘 - by: TonyChyi
-* 飞舞旋律 - by: 佚名
+* 飞舞旋律 - by: Jimmy
 * 炮姐图绘 - by: Jimmy
 * 裸体炮姐图绘 - by: 佚名
-* Homer Simpson - by: Leo_song
+* Homer.J.Simpson - by: Leo_song
 * 皮卡丘 - by: Jimmy
 * 红魔馆 - by: Jimmy
 * 东方全家福 - by: 佚名
 * 彩虹酒店 - by: Leo_song
+* 丰甜神庙 - 丰甜儿
 
 ### 飞行
 
 手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！
 
-> Hold a feather, face the sky, click the right button and you can fly~~~ -- leo_song
+> Hold a feather, face the sky, click the right button and you can fly~~~ -- Star Brilliant
+
+降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。
 
 ### 砍树
 
@@ -140,20 +145,20 @@ midymidy-mc@googlegroups.com
 
 砍树插件只在主世界有效
 
-###邮箱插件
+### 邮箱插件
 
-####创建邮箱
+#### 创建邮箱
 
 使用`/mailbox create`命令，然后左键点击你要当作邮箱的箱子，就会提示邮箱创建成功
 
-####移除邮箱
+#### 移除邮箱
 
 使用`/mailbox remove`
 
-####发送物品
+#### 发送物品
 
 使用`/mailbox send <玩家名称>`即可将当前手中拿的物品发送给对方
 
-####查看费率
+#### 查看费率
 
 使用`/mailbox fee`
