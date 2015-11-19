@@ -162,3 +162,8 @@ midymidy-mc@googlegroups.com
 #### 查看费率
 
 使用`/mailbox fee`
+
+服务器礼节
+-----
+
+见[服务器礼节](服务器礼节.md)
