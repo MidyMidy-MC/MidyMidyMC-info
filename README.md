@@ -33,6 +33,7 @@ MidyMidy 第三周目
 * Mailbox：邮箱插件
 * SmoothFlight：飞行插件
 * TreeAssist：砍树插件
+* SkinsRestorer：正版玩家皮肤修复
 * ModifyWorld
 
 ### 3. IRC
