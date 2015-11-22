@@ -7,8 +7,8 @@ MidyMidy 第三周目
 -----
 
 ### 1. 访问地址
-* 121.42.30.62
-* 114.215.156.251
+* 121.42.30.62（主地址）
+* 114.215.156.251（分流地址）
 * mc.hijack.moe （Jack Zhang 提供，有负载均衡）
 * mc-leo.hijack.moe （Jack Zhang 提供，直接连接服务器）
 * mc-bak.hijack.moe （Jack Zhang 提供，使用中转服务器）
