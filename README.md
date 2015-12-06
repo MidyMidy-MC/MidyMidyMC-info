@@ -129,7 +129,7 @@ midymidy-mc@googlegroups.com
 * Homer.J.Simpson - by: Leo_song
 * 皮卡丘 - by: Jimmy
 * 红魔馆 - by: Jimmy
-* 东方全家福 - by: 佚名
+* 东方全家桶 - by: 図書
 * 彩虹酒店 - by: Leo_song
 * 丰甜神庙 - 丰甜儿
 
