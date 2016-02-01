@@ -138,6 +138,7 @@ midymidy-mc@googlegroups.com
 * 东方全家桶 - by: 図書
 * 彩虹酒店 - by: Leo_song
 * 丰甜神庙 - 丰甜儿
+* KDE Icons - Icenowy
 
 ### 飞行
 
