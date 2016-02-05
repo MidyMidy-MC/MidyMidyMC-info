@@ -63,6 +63,8 @@ midymidy-mc@googlegroups.com
 
 商店的建法参照“SignShop用法”一节
 
+### 6.主城地图
+![map](map.png)
 各插件使用方法
 -----
 
