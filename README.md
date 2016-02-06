@@ -178,3 +178,8 @@ midymidy-mc@googlegroups.com
 -----
 
 见[服务器礼节](服务器礼节.md)
+
+MC1.8整合包
+-----
+
+[下载地址](http://pan.baidu.com/s/1dEe6YPV)
