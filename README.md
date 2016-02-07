@@ -1,7 +1,11 @@
 MidyMidy 第三周目
 =====
 
-我的子民们，欢迎回来！ -- King Casper
+> 我的子民们，欢迎回来！ -- King Casper
+
+MidyMidy Minecraft 的主题是：
+
+> 朴素的生存 -- StarBrilliant
 
 服务器基本信息
 -----
