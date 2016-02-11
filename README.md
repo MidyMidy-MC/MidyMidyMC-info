@@ -150,11 +150,11 @@ midymidy-mc@googlegroups.com
 
 ### 飞行
 
-<del>手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！
+<del>手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！</del>
 
-> Hold a feather, face the sky, click the right button and you can fly~~~ -- Star Brilliant
+> <del>Hold a feather, face the sky, click the right button and you can fly~~~ -- Star Brilliant</del>
 
-降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。</del>
+<del>降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。</del>
 
 已取消 SmoothFlight 插件。
 
