@@ -36,7 +36,6 @@ MidyMidy Minecraft 的主题是：
 * PurpleIRC：IRC对接
 * ServerWelcome：服务器登录欢迎
 * Mailbox：邮箱插件
-* SmoothFlight：飞行插件
 * TreeAssist：砍树插件
 * SkinsRestorer：正版玩家皮肤修复
 * ModifyWorld
@@ -148,11 +147,13 @@ midymidy-mc@googlegroups.com
 
 ### 飞行
 
-手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！
+<del>手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！
 
 > Hold a feather, face the sky, click the right button and you can fly~~~ -- Star Brilliant
 
-降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。
+降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。</del>
+
+已取消 SmoothFlight 插件。
 
 ### 砍树
 
