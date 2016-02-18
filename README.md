@@ -7,6 +7,8 @@ MidyMidy Minecraft 的主题是：
 
 > 朴素的生存 -- StarBrilliant
 
+**由于时有更新，请Watch这个Repo**
+
 服务器基本信息
 -----
 
