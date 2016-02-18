@@ -7,6 +7,8 @@ MidyMidy Minecraft 的主题是：
 
 > 朴素的生存 -- StarBrilliant
 
+**由于时有更新，请Watch这个Repo**
+
 服务器基本信息
 -----
 
@@ -84,16 +86,12 @@ midymidy-mc@googlegroups.com
 
 ### 8.关于熊孩子
 
-对于熊孩子的处理方法是：**警告一次，再犯Ban之**
-
-我们对于熊孩子的定义是：
-
-1. 故意毁坏他人建筑/农田/设施/矿道
-2. 盗窃/丢弃他人物品
-3. 故意使用高频红石/高空流水影响服务器性能
-4. 利用服务器漏洞，为自己提供方便
-5. 故意伤害他人
-6. 使用聊天功能发送广告/攻击他人/使人不快的信息
+1. 出现任何事故的时，管理员有权利当场冻结账户（为了防止破坏规模扩散），并进行警告。必要可以时回档。
+2. 如果警告无效，冻结账户24小时至48小时，开邮件讨论投票。
+3. 投票的结果如果是封禁：
+	- 如果这个用户第一次引发我们投票，视情节轻重，临时封禁或永久封禁。
+	- 如果这个用户引发了我们多次投票，永久封禁。
+4. 如果永久封禁，我们将四处宣扬此人的“光辉”事迹。
 
 各插件使用方法
 -----
@@ -174,11 +172,11 @@ midymidy-mc@googlegroups.com
 
 ### 飞行
 
-<del>手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！</del>
+~~手里拿着鸡毛，用右键即可飞行，不过要Hold住小心摔伤！~~
 
-> <del>Hold a feather, face the sky, click the right button and you can fly~~~ -- Star Brilliant</del>
+> ~~Hold a feather, face the sky, click the right button and you can fly -- Star Brilliant~~
 
-<del>降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。</del>
+~~降落的诀窍是按住右键的同时把脸朝向地面，可以缓慢降落。~~
 
 已取消 SmoothFlight 插件。
 
