@@ -71,6 +71,8 @@ midymidy-mc@googlegroups.com
 ### 6.主城地图
 ![map](map1.png)
 
+[离线地图](https://wetofu.top/midymidymc)
+
 物资中心可以在您还没建造自己的房屋时存放/合成/修复/酿造/熔炼您的物品，在地下 2 层设有仓库，存放物品时请自行上锁。
 
 ### 7.交通
