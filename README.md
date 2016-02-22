@@ -222,3 +222,7 @@ MC1.8整合包
 -----
 
 [下载地址](http://pan.baidu.com/s/1dEe6YPV)
+
+资源
+-----
+* [Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com)
