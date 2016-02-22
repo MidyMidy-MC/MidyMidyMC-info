@@ -213,16 +213,8 @@ midymidy-mc@googlegroups.com
 
 使用`/mailbox fee`
 
-服务器礼节
------
-
-见[服务器礼节](服务器礼节.md)
-
-MC1.8整合包
------
-
-[下载地址](http://pan.baidu.com/s/1dEe6YPV)
-
 资源
 -----
+* [服务器礼节](服务器礼节.md)
+* [MC1.8整合包下载](http://pan.baidu.com/s/1dEe6YPV)
 * [Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com)
