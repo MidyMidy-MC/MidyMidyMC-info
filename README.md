@@ -71,7 +71,7 @@ midymidy-mc@googlegroups.com
 ### 6.主城地图
 ![map](map1.png)
 
-[离线地图](https://wetofu.top/midymidymc)（用到 Google 的 API，梯子自备）
+[离线地图](https://wetofu.top/midymidymc)
 
 出生点附近找到命名为`Newbie Suits`的牌子右键可以领取新手套件，包括以下物品：
 * 猪排 16 个
