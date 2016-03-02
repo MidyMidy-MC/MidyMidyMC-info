@@ -35,7 +35,7 @@ midymidy-mc@googlegroups.com
 [离线地图下载](https://wetofu.top/midymidymc/mapcreater_rendered.tar.gz)
 （这个网站是TonyChyi的博客）
 
-我们有露天矿坑，需要搭乘下界铁路到达。
+有关世界设定请参见[世界设定](世界设定.md)
 
 加入我们的世界
 --------------
