@@ -69,5 +69,4 @@ SEE ALSO
 --------
 * [帮助](帮助.md)
 * [服务器礼节](服务器礼节.md)
-* [MC1.8整合包下载](http://pan.baidu.com/s/1dEe6YPV)
 * [Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com)
