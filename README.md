@@ -12,7 +12,7 @@ MidyMidy Minecraft 的主题是：
 服务器基本信息
 -----
 
-### 1. 访问地址
+### 访问地址
 * 121.42.30.62（主地址）
 * 114.215.156.251（分流地址）
 * mc.midymidy.com （Star Brilliant 提供，有负载均衡）
@@ -21,7 +21,7 @@ MidyMidy Minecraft 的主题是：
 * mc-bak.hijack.moe （Jack Zhang 提供，使用中转服务器）
 * mc.wetofu.top （TonyChyi 提供，有负载均衡）
 
-### 2. 插件
+### 插件
 * CrazyLogin：登录管理器
 * iConomy：金钱插件
 * SignShop：木牌商店
@@ -42,14 +42,14 @@ MidyMidy Minecraft 的主题是：
 * SkinsRestorer：正版玩家皮肤修复
 * ModifyWorld
 
-### 3. IRC
+### IRC
 \#MidyMidymc@freenode.net
 
-### 4.邮件列表
+### 邮件列表
 
 midymidy-mc@googlegroups.com
 
-### 5.系统商店
+### 系统商店
 
 现有MrBrick和MrQuartz两位交易员，可以用石头（烧过的那种）和他们交换砖块和石英。
 
@@ -68,7 +68,7 @@ midymidy-mc@googlegroups.com
 
 商店的建法参照“SignShop用法”一节
 
-### 6.主城地图
+### 主城地图
 ![map](map1.png)
 
 [离线地图](https://wetofu.top/midymidymc)
@@ -83,7 +83,7 @@ midymidy-mc@googlegroups.com
 物资中心可以在您还没建造自己的房屋时存放/合成/修复/酿造/熔炼您的物品，在地下 2 层设有仓库，存放物品时请自行上锁。
 当您建好自己的房屋后，请及时迁出您存放的物品，以便其他人使用
 
-### 7.交通
+### 交通
 
 #### 铁路
 
@@ -100,7 +100,7 @@ midymidy-mc@googlegroups.com
 * 2号线
 
 
-### 8.关于熊孩子
+### 关于熊孩子
 
 1. 出现任何事故的时，管理员有权利当场冻结账户（为了防止破坏规模扩散），并进行警告。必要可以时回档。
 2. 如果警告无效，冻结账户24小时至48小时，开邮件讨论投票。
