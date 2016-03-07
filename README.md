@@ -33,9 +33,8 @@ midymidy-mc@googlegroups.com
 [在线地图查看](https://wetofu.top/midymidymc/)
 
 [离线地图下载](https://wetofu.top/midymidymc/mapcreater_rendered.tar.gz)
-（这个网站是TonyChyi的博客）
 
-有关世界设定请参见[世界设定](世界设定.md)
+（这个网站是TonyChyi的博客）
 
 加入我们的世界
 --------------
@@ -51,10 +50,9 @@ midymidy-mc@googlegroups.com
 
 新手套件只能领取一次
 
-物资中心可以在你还没建造自己的房屋时存放/合成/修复/酿造/熔炼你的物品，在地下 2 层设有仓库，存放物品时请自行上锁。
-当你建好自己的房屋后，请及时迁出你存放的物品，以便其他人使用。
-
 关于本服的经济系统，参见[经济系统](经济系统.md)。
+
+有关世界设定请参见[世界设定](世界设定.md)
 
 其他方面，如锁箱插件、牌子商店的使用，参阅[帮助](帮助.md)
 
