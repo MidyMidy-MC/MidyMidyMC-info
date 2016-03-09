@@ -23,7 +23,7 @@ MidyMidyMC是一个朴素的生存模式服务器。
 *若你的网络屏蔽了Minecraft的默认端口，可以尝试用23333端口来访问（仅限主IP）*
 
 ### IRC
-\#MidyMidymc@freenode.net
+\#MidyMidymc @freenode.net
 
 ### 邮件列表
 
