@@ -32,7 +32,7 @@ midymidy-mc@googlegroups.com
 ### 地图
 [在线地图查看](https://wetofu.top/midymidymc/)
 
-[离线地图下载](https://wetofu.top/midymidymc/mapcreater_rendered.tar.gz)
+[离线地图下载](https://wetofu.top/midymidymc/mapcreater_rendered.tar.bz2)
 
 （这个网站是TonyChyi的博客）
 
