@@ -1,4 +1,4 @@
-MidyMidy 第三周目
+MidyMidy 第三周目——月升之国
 =====
 
 > 我的子民们，欢迎回来！ -- King Casper
@@ -69,4 +69,5 @@ SEE ALSO
 --------
 * [帮助](帮助.md)
 * [服务器礼节](服务器礼节.md)
+* [以往周目](以往周目.md)
 * [Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com)
