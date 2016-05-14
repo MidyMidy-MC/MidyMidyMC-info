@@ -10,6 +10,10 @@ MidyMidyMC是一个朴素的生存模式服务器。
 服务器基本信息
 --------------
 
+### Minecraft版本
+
+当前为 1.8.*
+
 ### 访问地址
 
 * mc.midymidy.com （Star Brilliant 提供，有负载均衡）
