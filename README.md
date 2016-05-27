@@ -22,7 +22,7 @@ MidyMidyMC是一个朴素的生存模式服务器。
 * mc.hijack.moe （Jack Zhang 提供，有负载均衡，SRV记录）
 * mc.wetofu.top （TonyChyi 提供，CNAME到world3.mc.midymidy.com）
 
-*若你的网络屏蔽了Minecraft的默认端口，可以尝试用23333端口来访问（仅限主IP）*
+<del>*若你的网络屏蔽了Minecraft的默认端口，可以尝试用23333端口来访问（仅限主IP）*</del>
 
 ### IRC
 \#MidyMidymc @freenode.net
