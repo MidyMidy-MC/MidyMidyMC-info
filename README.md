@@ -18,11 +18,10 @@ MidyMidyMC是一个朴素的生存模式服务器。
 
 ### 访问地址
 
-* mc.midymidy.com （Star Brilliant 提供，有负载均衡）
+* mc.midymidy.com （Star Brilliant 提供）
 * world3.mc.midymidy.com （Star Brilliant 提供）
-* 114.215.156.251（Jack Zhang 提供，分流地址）
+* <del>114.215.156.251（Jack Zhang 提供，分流地址，已离线）</del>
 * 172.104.89.37 （东京Linode海外转发，凉拌茶叶提供，直连主服）
-* mc.hijack.moe （Jack Zhang 提供，有负载均衡，SRV记录）
 * mc.wetofu.top （TonyChyi 提供，CNAME到world3.mc.midymidy.com）
 
 *<del>若你的网络屏蔽了Minecraft的默认端口，可以尝试用23333端口来访问（仅限主IP）</del>*
