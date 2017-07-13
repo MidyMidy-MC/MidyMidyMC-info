@@ -20,7 +20,7 @@ MidyMidyMC是一个朴素的生存模式服务器。
 
 * mc.midymidy.com （Star Brilliant 提供，有负载均衡）
 * world3.mc.midymidy.com （Star Brilliant 提供）
-* 114.215.156.251（Jack Zhang 提供，分流地址）
+* ~114.215.156.251（Jack Zhang 提供，分流地址）~
 * 172.104.89.37 （东京Linode海外转发，凉拌茶叶提供，直连主服）
 * mc.hijack.moe （Jack Zhang 提供，有负载均衡，SRV记录）
 * mc.wetofu.top （TonyChyi 提供，CNAME到world3.mc.midymidy.com）
