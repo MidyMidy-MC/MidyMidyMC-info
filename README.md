@@ -37,6 +37,8 @@ midymidy-mc@googlegroups.com
 * https://mc.anydisconnect.com
 * https://mc.wetofu.top
 
+要使用Dynmap，首先要执行`/dynmap webregister`，会给一个key，然后在网页里面注册即可
+
 加入我们的世界
 --------------
 
