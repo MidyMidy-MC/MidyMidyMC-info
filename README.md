@@ -1,7 +1,5 @@
-MidyMidy 第三周目——月升之国
+MidyMidy 第四周目--副标题就不要了吧
 =====
-
-> 我的子民们，欢迎回来！ -- King Casper
 
 MidyMidyMC是一个朴素的生存模式服务器。
 
@@ -12,18 +10,16 @@ MidyMidyMC是一个朴素的生存模式服务器。
 
 ### Minecraft版本
 
-当前为 1.8.*
-
-**预计于8月8日升级到1.10。**
+当前为 1.12.*
 
 ### 访问地址
 
-* mc.midymidy.com （Star Brilliant 提供，有负载均衡）
-* world3.mc.midymidy.com （Star Brilliant 提供）
-* ~114.215.156.251（Jack Zhang 提供，分流地址）~
-* 172.104.89.37 （东京Linode海外转发，凉拌茶叶提供，直连主服）
-* mc.hijack.moe （Jack Zhang 提供，有负载均衡，SRV记录）
+* mc.anydisconnect.com （Star Brilliant 提供）
 * mc.wetofu.top （TonyChyi 提供，CNAME到world3.mc.midymidy.com）
+* 172.104.89.37 （东京Linode海外转发，凉拌茶叶提供，主服）
+  - “DNS故障是经常发生的”——毛主席并没有说过这句话
+<!-- * world3.mc.midymidy.com （Star Brilliant 提供） -->
+<!-- * mc.hijack.moe （Jack Zhang 提供，有负载均衡，SRV记录） -->
 
 *<del>若你的网络屏蔽了Minecraft的默认端口，可以尝试用23333端口来访问（仅限主IP）</del>*
 
@@ -35,31 +31,33 @@ MidyMidyMC是一个朴素的生存模式服务器。
 midymidy-mc@googlegroups.com
 
 ### 地图
-[在线地图查看](https://wetofu.top/midymidymc/)
 
-[离线地图下载](https://wetofu.top/midymidymc/mapcreater_rendered.tar.bz2)
+在线地图查看：
 
-（这个网站是TonyChyi的博客）
+* https://mc.anydisconnect.com
+* https://mc.wetofu.top
 
 加入我们的世界
 --------------
 
 请先发送一封邮件到我们的邮件列表来介绍你自己，注明你的游戏ID，需要等管理员批准你加入。作为门槛，不介绍这一步的具体操作。
 
-在Minecraft中，进入我们的服务器一次，以使服务器记录下你的UUID。这时你属于Default组，并不能和方块交互。直接退出，等待管理员处理并通知你。
-
-进入游戏后，在出生点附近找到命名为`Newbie Suits`的牌子右键可以领取新手套件，包括以下物品：
-* 猪排 16 个
-* 服务器规则
-* 邮箱教程
-
-新手套件只能领取一次
+在Minecraft中，进入我们的服务器一次，以使服务器记录下你的UUID。这时你属于default组，并不能和方块交互。`/register 密码`后直接退出，等待管理员处理并通知你。
 
 关于本服的经济系统，参见[经济系统](经济系统.md)。
 
 有关世界设定请参见[世界设定](世界设定.md)
 
 其他方面，如锁箱插件、牌子商店的使用，参阅[帮助](帮助.md)
+
+快速Howto
+---------
+
+* 发完邮件，进入游戏，在60s内输入`/register 你的密码`来注册
+  - 这时你还不能和世界交互
+  - 坐等管理员把你加入`players`组（可以离线）
+* 每次进入游戏时，输入`/login 你的密码`来登录
+* 普通地游戏就好啦
 
 ### 关于熊孩子
 
