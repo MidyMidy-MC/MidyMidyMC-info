@@ -16,7 +16,7 @@ MidyMidyMC是一个朴素的生存模式服务器。
 
 * mc.anydisconnect.com （Star Brilliant 提供）
 * mc.wetofu.top （TonyChyi 提供，CNAME到world3.mc.midymidy.com）
-* 172.104.89.37 （东京Linode海外转发，凉拌茶叶提供，主服）
+* 172.104.89.37 （东京Linode，凉拌茶叶提供，主服）
   - “DNS故障是经常发生的”——毛主席并没有说过这句话
 <!-- * world3.mc.midymidy.com （Star Brilliant 提供） -->
 <!-- * mc.hijack.moe （Jack Zhang 提供，有负载均衡，SRV记录） -->
