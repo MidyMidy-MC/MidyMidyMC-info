@@ -1,4 +1,4 @@
-MidyMidy 第四周目-- 云道之城
+MidyMidy 第四周目--云道之城
 =====
 
 MidyMidyMC是一个朴素的生存模式服务器。
