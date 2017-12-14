@@ -16,7 +16,7 @@ MidyMidyMC是一个朴素的生存模式服务器。
 
 ### 访问地址
 
-* mc.anydisconnect.com （Star Brilliant 提供）
+* mc.anydisconnect.com （Star Brilliant 提供，提供IPv4和IPv6解析，**推荐**）
 * mc.wetofu.top （TonyChyi 提供，提供IPv4和IPv6解析）
 * 172.104.89.37 （东京Linode，凉拌茶叶提供，主服）
   - “DNS故障是经常发生的”——毛主席并没有说过这句话
