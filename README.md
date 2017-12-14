@@ -1,11 +1,11 @@
-MidyMidy 第四周目--副标题就不要了吧
+MidyMidy 第四周目--我们都是山顶洞人
 =====
 
 MidyMidyMC是一个朴素的生存模式服务器。
 
 **由于时有更新，请Watch这个Repo**
 
-<img src="./photo_2017-12-14_17-23-40.jpg" />
+![2333](./photo_2017-12-14_17-23-40.jpg)
 
 服务器基本信息
 --------------
@@ -17,13 +17,13 @@ MidyMidyMC是一个朴素的生存模式服务器。
 ### 访问地址
 
 * mc.anydisconnect.com （Star Brilliant 提供）
-* mc.wetofu.top （TonyChyi 提供，CNAME到world3.mc.midymidy.com）
+* mc.wetofu.top （TonyChyi 提供，提供IPv4和IPv6解析）
 * 172.104.89.37 （东京Linode，凉拌茶叶提供，主服）
   - “DNS故障是经常发生的”——毛主席并没有说过这句话
 <!-- * world3.mc.midymidy.com （Star Brilliant 提供） -->
 <!-- * mc.hijack.moe （Jack Zhang 提供，有负载均衡，SRV记录） -->
 
-*<del>若你的网络屏蔽了Minecraft的默认端口，可以尝试用23333端口来访问（仅限主IP）</del>*
+*~若你的网络屏蔽了Minecraft的默认端口，可以尝试用23333端口来访问（仅限主IP）~*
 
 ### IRC
 \#MidyMidymc @freenode.net
