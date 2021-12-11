@@ -7,39 +7,25 @@ MidyMidyMC是一个朴素的生存模式服务器。
 
 ![2333](./photo_2017-12-14_17-23-40.jpg)
 
+![2333](./photo_2021-12-11_16-44-06.jpg)
+
 服务器基本信息
 --------------
 
 ### Minecraft版本
 
-当前为 1.12.*
+当前为 1.18.*
 
 ### 访问地址
 
-* mc.anydisconnect.com （Star Brilliant 提供，提供IPv4和IPv6解析，**推荐**）
-* mc.wetofu.top （TonyChyi 提供，提供IPv4和IPv6解析）
-* 172.104.89.37 （东京Linode，凉拌茶叶提供，主服）
-  - “DNS故障是经常发生的”——毛主席并没有说过这句话
-<!-- * world3.mc.midymidy.com （Star Brilliant 提供） -->
-<!-- * mc.hijack.moe （Jack Zhang 提供，有负载均衡，SRV记录） -->
+详见Telegram群
 
-*~若你的网络屏蔽了Minecraft的默认端口，可以尝试用23333端口来访问（仅限主IP）~*
-
-### IRC
-\#MidyMidymc @freenode.net
+要使用Dynmap，首先要执行`/dynmap webregister`，会给一个key，然后在网页里面注册即可
 
 ### 邮件列表
 
 midymidy-mc@googlegroups.com
 
-### 地图
-
-在线地图查看：
-
-* https://mc.anydisconnect.com
-* https://mc.wetofu.top
-
-要使用Dynmap，首先要执行`/dynmap webregister`，会给一个key，然后在网页里面注册即可
 
 加入我们的世界
 --------------
