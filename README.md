@@ -5,11 +5,7 @@ MidyMidyMC是一个朴素的生存模式服务器。
 
 **由于时有更新，请Watch这个Repo**
 
-<img src="./photo_2017-12-14_17-23-40.jpg" width=250>
-
-![2333](./photo_2017-12-14_17-23-40.jpg | width=250)
-
-![2333](./photo_2021-12-11_16-44-06.jpg | width=250)
+<img src="./photo_2017-12-14_17-23-40.jpg" width=300> <img src="./photo_2021-12-11_16-44-06.jpg" width=300>
 
 ![2333](./Arma3/20220505001053_1.jpg | width=250)
 
