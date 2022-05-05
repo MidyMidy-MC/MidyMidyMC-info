@@ -1,6 +1,8 @@
 Dynamic Bulwarks
 ================
 
+![screenshot](./20220505001059_1.jpg)
+
 * workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1402462003
 * github: https://github.com/Omnomios/DynamicBulwarks/releases
 * Add 5 tickets for BLUFOR:
